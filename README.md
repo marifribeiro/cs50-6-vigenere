@@ -70,8 +70,6 @@ As you can see, the letters with accents and puctuation were not encrypted, so y
 
 ## Usage
 
-## Usage
-
 You will need [Python](https://www.python.org/downloads/) to run thins application.
 
 Clone this repository, then, through the command line, enter the program's folder and run the following command:
